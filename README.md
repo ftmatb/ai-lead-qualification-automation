@@ -65,3 +65,6 @@ Next steps: safely package the workflow export, add sanitized screenshots, verif
 ## Intended use
 
 A learning and portfolio project demonstrating business-process automation, local AI integration, lead triage, Google API integrations, and draft-based human-in-the-loop communication.
+## Workflow Screenshot
+
+![AI Lead Qualification Workflow](Screenshot%202026-10-18%20at%2012.15.37.png)
